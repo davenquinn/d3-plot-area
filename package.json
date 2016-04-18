@@ -1,0 +1,27 @@
+{
+  "name": "d3-plot-area",
+  "version": "0.1.0",
+  "description": "A simple set of rectangular axes for quick plotting with D3",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davenquinn/d3-plot-area.git"
+  },
+  "keywords": [
+    "d3",
+    "plot",
+    "graphics"
+  ],
+  "author": "Daven Quinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davenquinn/d3-plot-area/issues"
+  },
+  "homepage": "https://github.com/davenquinn/d3-plot-area#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
